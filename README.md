@@ -1,5 +1,5 @@
-Developed by: SIDDHARTH S
-RegisterNumber: 24002384
+Developed by: INFANT JESUS S
+RegisterNumber: 24001856
 
 
 ### SYNCHRONOUS-UP-COUNTER
